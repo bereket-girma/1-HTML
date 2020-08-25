@@ -10,10 +10,26 @@ body {
 h1 {
     text-align: center;
     background-color: brown; 
-
-    font-size: 20px;
+    text-shadow: 0 1px;
+    font-size: 40px;
     font-family: cursive;
   }
 .home-bars {
     text-align: right;
+}
+
+ul {
+  background-color: #FE9A2E;
+}
+
+
+#submit {
+  background-color: #FA5882;
+  color: #819FF7;
+
+}
+img {
+  width: 20%;
+  height: 20%;
+
 }
